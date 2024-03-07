@@ -1,0 +1,59 @@
+body{
+    background-color: aqua;
+    }
+.holder{
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.image{
+    width: 43%;
+    border: solid 5px red;
+    margin: 5px;
+    border-radius: 10px;
+}
+.holder1{
+    display:flex;
+    flex-wrap: :wrap;
+    margin:10px;
+}
+.image1{
+    width: 48%;
+    border: solid 5px yellow;
+    margin: 5px;
+    border-radius: 10px
+}
+.holder2{
+    display:flex;
+    flex-wrap: :wrap;
+    margin:5px;
+}
+.image2{
+    width: 16%;
+    border: solid 5px red ;
+    margin: 5px;
+    border-radius: 5px
+}
+.holder3{
+    display:flex;
+    flex-wrap: :wrap;
+    margin:10px;
+}
+.image3{
+    width: 20.5%;
+    border: solid 5px red ;
+    margin: 5px;
+    border-radius: 10px
+}
+.holder4{
+    display:flex;
+    flex-wrap: :wrap;
+    margin:10px;
+}
+.image4{
+    width: 34%;
+    border: solid 5px red ;
+    margin: 5px;
+    border-radius: 10px
+}
